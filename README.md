@@ -1,3 +1,2 @@
-# -Word-Maker-Game-COAL
-Word Maker Game is a simple word puzzle where the program gives a main word, and the player must form smaller valid words using only the letters of that word. 
-Each correct word earns points, and repeated or invalid words are rejected.
+# Caesar Cipher Tool
+It is a 16-bit Assembly-based cryptographic utility developed for the 8086 architecture. It features a menu-driven interface that allows users to perform bi-directional Caesar Cipher encryption and decryption with variable shift keys.  The tool implements a modular design using Procedures and Macros from the emu8086.inc library to ensure clean code and efficient I/O handling. It also includes a robust validation engine that ensures only alphabetical characters are shifted, maintaining the integrity of symbols and numbers within the input text. 
