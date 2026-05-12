@@ -1,5 +1,6 @@
 include 'emu8086.inc'
 org 100h
+      
 
 .code
 
@@ -55,6 +56,6 @@ show_decrypted:
 buffer db 20 dup(?)  
 
 DEFINE_GET_STRING
-DEFINE_PRINT_STRING
-
+DEFINE_PRINT_STRING  ;yufhibhfirdhidfkvnfgbkvgfo fk
+                      ;nfirkenfiehnfdkrndfefod
 END
