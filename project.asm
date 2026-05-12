@@ -55,6 +55,6 @@ show_decrypted:
 buffer db 20 dup(?)  
 
 DEFINE_GET_STRING
-DEFINE_PRINT_STRING
+DEFINE_PRINT_STRING    ;djhfeifghsduihkdasjhkhjdbqashkdbwhduw3udhiwjed
 
 END
