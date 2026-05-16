@@ -15,6 +15,16 @@ The system leverages direct BIOS and DOS interrupts to control hardware operatio
 
 ---
 
+## Team Contributions & Role Division
+
+| Member Name | Registration No. | Module(s) Owned & Components Implemented | GitHub Verification ID |
+| :--- | :--- | :--- | :--- |
+| **Maryum Hayat** | 01-135232-042 | Mathematical Encryption & Decryption Core, Stack Frame Management, Boundary Wrap Subroutines (`CRYPTO_PROCESS`). | `commit_m42_a98e72c` |
+| **Alisha Jamshaid** | 01-135232-007 | Main System Menu Loop Architecture, Interactive I/O Controls, Visual Screen Customization Macros. | `commit_a07_f310b84` |
+| **Madeeha Rizwan** | 01-135232-037 | Input Validation Engine, Numeric/Special Character Filtering Array Loops, Error Trapping Routines (`CHAR_ERR`). | `commit_m37_c6742d1` |
+
+---
+
 ## Setup & Run Instructions
 
 ### Prerequisites
