@@ -314,7 +314,7 @@ CRYPTO_END:
     pop bx
     pop si
     pop ax
-    mov sp, bp              ; Clean up local variable space
+    mov sp, bp             ; Clean up local variable space
     pop bp
     ret 4                   ; Return and remove 4 bytes of parameters from stack
 CRYPTO_PROCESS ENDP
